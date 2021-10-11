@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-animated-transition/static/css/main.e58b0023.chunk.css",
+    "main.js": "/react-animated-transition/static/js/main.619cde66.chunk.js",
+    "main.js.map": "/react-animated-transition/static/js/main.619cde66.chunk.js.map",
+    "runtime-main.js": "/react-animated-transition/static/js/runtime-main.0a821104.js",
+    "runtime-main.js.map": "/react-animated-transition/static/js/runtime-main.0a821104.js.map",
+    "static/js/2.36c5b404.chunk.js": "/react-animated-transition/static/js/2.36c5b404.chunk.js",
+    "static/js/2.36c5b404.chunk.js.map": "/react-animated-transition/static/js/2.36c5b404.chunk.js.map",
+    "static/js/3.0bf34c1a.chunk.js": "/react-animated-transition/static/js/3.0bf34c1a.chunk.js",
+    "static/js/3.0bf34c1a.chunk.js.map": "/react-animated-transition/static/js/3.0bf34c1a.chunk.js.map",
+    "index.html": "/react-animated-transition/index.html",
+    "static/css/main.e58b0023.chunk.css.map": "/react-animated-transition/static/css/main.e58b0023.chunk.css.map",
+    "static/js/2.36c5b404.chunk.js.LICENSE.txt": "/react-animated-transition/static/js/2.36c5b404.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a821104.js",
+    "static/js/2.36c5b404.chunk.js",
+    "static/css/main.e58b0023.chunk.css",
+    "static/js/main.619cde66.chunk.js"
+  ]
+}
